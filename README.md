@@ -9,6 +9,4 @@
     Say what you think 
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eug620&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eug620&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<iframe style=“width:100%;height:300px;border:none;” src=“https://eug620.github.io/model-rendering/#/dashboard”></iframe>
